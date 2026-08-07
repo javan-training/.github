@@ -23,4 +23,10 @@ Lab repositories and class materials for **Javan Rasokat** security trainings.
 - **Class materials hub:** [https://training.javan.de/god-2025-browser-defense](https://training.javan.de/god-2025-browser-defense) (open — no class code)
 - **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public)
 
-More: [about.javan.de](https://about.javan.de/)
+## 📨 Get in Touch
+
+Have questions, feedback, or just want to connect? Reach out to me through any of these platforms:  
+- **[bsky](https://bsky.app/profile/javanrasokat.bsky.social)**  
+- **[X](https://x.com/javanrasokat)**  
+- **[LinkedIn](https://www.linkedin.com/in/javan-rasokat)**  
+- **[about.javan.de](https://about.javan.de/)**

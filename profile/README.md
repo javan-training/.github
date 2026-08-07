@@ -11,7 +11,7 @@ Lab repositories and class materials for **Javan Rasokat** security trainings.
 
 ## DEF CON 33
 
-- **Workshop:** [Eliminating Bug Classes at Scale: Leveraging Browser Features for Proactive Defense](https://defcon.org/html/defcon-33/dc-33-workshops.html#content_60695)
+- **Workshop:** [Eliminating Bug Classes at Scale: Leveraging Browser Features for Proactive Defense](https://defcon.org/html/defcon-33/dc-33-workshops.html#content_60695) (4h workshop)
 - **Dates:** August 2025 (Las Vegas)
 - **Class materials hub:** [https://training.javan.de/defcon-33-bug-classes](https://training.javan.de/defcon-33-bug-classes) (open — no class code)
 - **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public)

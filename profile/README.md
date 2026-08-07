@@ -9,19 +9,12 @@ Lab repositories and class materials for **Javan Rasokat** security trainings.
 - **Class materials hub:** [https://training.javan.de/bh-usa-2026-pse](https://training.javan.de/bh-usa-2026-pse) (class code shown in the room)
 - **This cohort’s pack:** [`bh-usa-2026-pse-attendees`](https://github.com/javan-training/bh-usa-2026-pse-attendees) (private — invite via the hub)
 
-## DEF CON 33
+## DEF CON 33 + BSidesLV 2025
 
-- **Workshop:** [Eliminating Bug Classes at Scale: Leveraging Browser Features for Proactive Defense](https://defcon.org/html/defcon-33/dc-33-workshops.html#content_60695) (4h workshop)
+- **Workshop / training:** [Eliminating Bug Classes at Scale: Leveraging Browser Features for Proactive Defense](https://defcon.org/html/defcon-33/dc-33-workshops.html#content_60695) (4h) — also [BSidesLV](https://hackertracker.app/bsideslv2025/content/60539)
 - **Dates:** August 2025 (Las Vegas)
 - **Class materials hub:** [https://training.javan.de/defcon-33-bug-classes](https://training.javan.de/defcon-33-bug-classes) (open — no class code)
 - **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public)
-
-## BSidesLV 2025
-
-- **Training:** [Eliminating Bug Classes at Scale: Leveraging Browser Features for Proactive Defense](https://hackertracker.app/bsideslv2025/content/60539) (4h training)
-- **Dates:** August 2025 (Las Vegas)
-- **Class materials hub:** [https://training.javan.de/bsideslv-2025-bug-classes](https://training.javan.de/bsideslv-2025-bug-classes) (open — no class code)
-- **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public — same materials as DEF CON 33)
 
 ## German OWASP Day 2025
 

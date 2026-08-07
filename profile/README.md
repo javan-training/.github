@@ -16,4 +16,11 @@ Lab repositories and class materials for **Javan Rasokat** security trainings.
 - **Class materials hub:** [https://training.javan.de/defcon-33-bug-classes](https://training.javan.de/defcon-33-bug-classes) (open — no class code)
 - **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public)
 
+## German OWASP Day 2025
+
+- **Training:** [Leveraging Browser Features for Proactive Defense](https://god.owasp.de/2025/program-detail.html?talk=trainingOne)
+- **Dates:** December 2025
+- **Class materials hub:** [https://training.javan.de/god-2025-browser-defense](https://training.javan.de/god-2025-browser-defense) (open — no class code)
+- **Workshop repo:** [`LasVegasNightlifeApp-Workshop`](https://github.com/JavanXD/LasVegasNightlifeApp-Workshop) (public — same materials as DEF CON 33)
+
 More: [about.javan.de](https://about.javan.de/)
